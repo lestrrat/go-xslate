@@ -7,6 +7,10 @@ Attempt to port Perl5's Text::Xslate to Go
 
 [![GoDoc](https://godoc.org/github.com/lestrrat/go-xslate?status.png)](https://godoc.org/github.com/lestrrat/go-xslate)
 
+# WARNING
+
+This repository has been moved to [github.com/lestrrat-go/xslate](https://github.com/lestrrat-go/xslate). This repository exists so that libraries pointing to this URL will keep functioning, but this repository will NOT be updated in the future. Please use the new import path.
+
 Play with it!
 =============
 
